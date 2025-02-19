@@ -1,0 +1,28 @@
+header{
+ background-color:navy;
+  padding:10px;
+}
+header a{
+  background-color:white;
+  Color:black;
+  text-decoration:none;
+  border:1px solid white;
+  border-radius:10px;
+  padding:5px;
+  margin:10px;
+}
+main p{
+  border:1px solid navy;
+  border-radius:15px;
+  padding:20px;
+  margin:20px;
+  font-size:20px
+}
+footer{
+  background-color:#8fddf2;
+  padding:10px
+}
+footer p{
+  background-color:white;
+  padding:5px
+  }
